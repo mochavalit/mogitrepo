@@ -57,7 +57,7 @@ ctx.closePath();
 
 ctx.font="50px Arial";
 ctx.fillStyle = "white";
-ctx.fillText("ปุณ+ป่าป๊า",x-50,y+9);
+ctx.fillText("ปุณ+ป่าป๊า jump",x-50,y+9);
 
 
 
